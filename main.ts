@@ -29,8 +29,8 @@ input.onButtonPressed(Button.A, function () {
     }
 })
 input.onButtonPressed(Button.B, function () {
-    a = 0
-    a = 0
+    x = 0
+    y = 0
     a = 0
     basic.clearScreen()
     for (let index = 0; index < 25; index++) {
